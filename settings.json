@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Dpsserver123456778.aternos.me",
+    "ip": "Dpsserver123456778.aternos.me:50992",
     "port":  50992,
     "version": "",
     "try-creative": false
